@@ -1,4 +1,4 @@
-# 'Unicorn Companies' Project Outcome
+# Unicorn Companies Project Outcome
 ![image alt](https://github.com/aliciango/data-analyst-portfolio-projects/blob/d936e06e34322df8660598fec4c685f3698567cf/assets/unicorn_tableau.png)
 ![image alt](https://github.com/aliciango/data-analyst-portfolio-projects/blob/d936e06e34322df8660598fec4c685f3698567cf/assets/unicorn_tableau2.png)
 ## Tech Stack
