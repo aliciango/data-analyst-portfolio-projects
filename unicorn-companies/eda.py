@@ -43,13 +43,11 @@ df = df[ df['funding'] != 0 ]
 
 # columns that can be converted to string type
 string_cols = ['company', 'city', 'country/region', 'continent']
-for col in string_cols:
-    df[col] = df[col].astype('string')
+df[string_cols] = df[string_cols].astype('string')
     
 # some columns can be converted to categorical type for efficient use of memory
 categorical_cols = ['industry', 'funding_currency']
-for col in categorical_cols:
-    df[col] = df[col].astype('category')
+df[categorical_cols] = df[categorical_cols].astype('category')
 
 
 # A. statistics and data distribution
@@ -121,7 +119,7 @@ df_long.drop('select_investors_transformed', axis=1)
 ######################
 ## C. The time it took each company to reach unicorn status
 ######################
-df_long['date_joined_cleaned'] = pd.to_datetime(df_long['date_joined'], format='%Y-%m-%d').dt.strftime('%Y-%m-%d').astype('datetime64[ns]')
+df_long['date_joined_cleaned'] = pd.to_datetime(df_long['date_joined'], format='%Y-%m-%d')
 df_long['years_to_unicorn'] = 2022 - df_long['date_joined_cleaned'].dt.year
 
 # visualize using a boxplot 
@@ -177,5 +175,6 @@ valuation_df_mean
 ######################
 df_long['company_cleaned'] = df_long['company'].str.upper()
 df_long.to_csv('Cleaned_Unicorn_Companies_2022.csv', index=False)
+
 
 df_long[df_long['company_cleaned'].isin(['BOLT', 'BRANCH', 'FABRIC', 'FIGURE'])]
