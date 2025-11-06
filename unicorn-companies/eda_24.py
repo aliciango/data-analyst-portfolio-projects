@@ -65,7 +65,7 @@ df_2024.isnull().sum()
 
 # some companies have missing information about their 'investors' / 'country' / 'country/region'
 # we will see if we can fill that information by finding their investors in 2022 and 2023 datasets
-companies_to_check = pd.array(df_2024.loc[ df_2024.query('country.isnull()').index ]['company_cleaned'])
+companies_to_check = pd.array(df_2024[ df_2024.query('country.isnull()').index ]['company_cleaned'])
 
 # rows in df_2023 that match any name in the companies_to_check
 lookup_table = df_2023[df_2023['company_cleaned'].isin(companies_to_check)][ ['company_cleaned','country/region'] ]
@@ -133,6 +133,7 @@ df_24_1nf.shape # 1931 x 10
 string_cols = ['company', 'country', 'country/region', 'select_investors','company_link', 'img_src', 'company_cleaned']
 for col in string_cols:
     df_24_1nf[col] = df_24_1nf[col].astype('string')
+
 
 
 df_24_1nf.to_csv('Cleaned_Unicorn_Companies_2024.csv', index=False)
