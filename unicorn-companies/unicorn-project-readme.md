@@ -3,8 +3,8 @@
 ![image alt](https://github.com/aliciango/data-analyst-portfolio-projects/blob/d936e06e34322df8660598fec4c685f3698567cf/assets/unicorn_tableau2.png)
 ## Tech Stack
 - Python pandas and numpy (data cleaning)
-- [ Snowflake/SQL ](#3-snowflake-sql-database-design-and-preparing-data-for-visualization)
-(# (database design, merge tables and quick data query)
+- [Go to Snowflake Section](#3-snowflake-sql-database-design-and-preparing-data-for-visualization)
+- [ Snowflake/SQL ](#3-snowflake-sql-database-design-and-preparing-data-for-visualization) (database design, merge tables and quick data query)
 - [ Tableau (Visualization)](https://public.tableau.com/views/FINISHEDDASHBOARD/DEALSOURCINGDB?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 ## 1. Data Source Introduction
 
