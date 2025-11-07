@@ -6,8 +6,9 @@
 # :bulb: BUSINESS INSIGHTS
 ## Dashboard Peek
 :link: [Go to Tableau Dashboard](https://public.tableau.com/views/FINISHEDDASHBOARD/DEALSOURCINGDB?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
-![image alt](https://github.com/aliciango/data-analyst-portfolio-projects/blob/d936e06e34322df8660598fec4c685f3698567cf/assets/unicorn_tableau.png)
 
+| ![image alt](https://github.com/aliciango/data-analyst-portfolio-projects/blob/d936e06e34322df8660598fec4c685f3698567cf/assets/unicorn_tableau.png) |
+|------------------------|
 
 ## Client Background
 
@@ -17,54 +18,88 @@ This report provides an analytical overview of [client's or project's] recent pe
 
 The analysis focuses on key performance indicators, data insights, and strategic recommendations to support decision-making and operational improvements.
 
-## Northstar Metrics
+## Northstar Metrics: Company's Valuation in 2022, 2023 and 2024
 
-- [Metric 1] – e.g., Revenue growth trends and seasonal performance.
-- [Metric 2] – e.g., Product performance and category insights.
-- [Metric 3] – e.g., Customer engagement or loyalty program evaluation.
-- [Metric 4] – e.g., Regional sales comparison and market penetration.
+- Dimension 1: Slice by Industries
+- Dimension 2: Slice by Continents
+
 
 ## Insights from Visualization
-| ![img1](https://github.com/aliciango/data-analyst-portfolio-projects/blob/64d7f1d2e10a4a7c3a553b3a5d272b31e0dfd40d/assets/sequoia%20overview.png) | ![img2](https://github.com/aliciango/data-analyst-portfolio-projects/blob/64d7f1d2e10a4a7c3a553b3a5d272b31e0dfd40d/assets/sequoia%20overview.png) |
-|----------------------|----------------------|
-| ![img3](https://github.com/aliciango/data-analyst-portfolio-projects/blob/64d7f1d2e10a4a7c3a553b3a5d272b31e0dfd40d/assets/sequoia%20overview.png) | ![img4](https://github.com/aliciango/data-analyst-portfolio-projects/blob/64d7f1d2e10a4a7c3a553b3a5d272b31e0dfd40d/assets/sequoia%20overview.png) |
-#### view 1
-- Insight 1:
-- Insight 2: 
-#### view 2
-- Insight 1:
-- Insight 2:
-#### view 3
-- Insight 1:
-- Insight 2:
-#### view 4
-- Insight 1:
-- Insight 2:
+#### *VIEW 1* - Portfolio Management Overview: Key Performance Indicators
+| ![image alt](https://github.com/aliciango/data-analyst-portfolio-projects/blob/18a0f918f9d4dbbed7a932b820d52477a9639745/assets/sequoia%20overview.png)  |
+|------------------------|
+##### Executive Summary (KPIs)
+- Portfolio Health: The portfolio is highly concentrated, with only 31 holdings and the majority of holdings are in tech industry. This concentration hints that any changes in our portfolio may be caused by the recent changes in the tech industry. There was a major drawdown in 2023, with the portfolio's value dropping ~26% (from $417B to $309B), likely reflecting a broad market correction in tech.
+- Rebound: The portfolio saw a 10.7% recovery in 2024 (from $309B to $342B). While positive, this has not yet erased the 2023 losses, and the valuation did not reach its peak as in 2022.
+  
+##### Funding Allocations to different Industry (Pie Chart)
+- The portfolio has a massive sector concentration in Fintech (30.65%). The top three sectors (Fintech, Supply Chain, and Internet Software) collectively account for over 55% of the portfolio.
+- This heavy concentration in Fintech poses certain risks to the portfolio. A downturn in this specific sector will severely impact overall performance. Conversely, it also represents a strong bullish bet.
 
-## Recommendations
+##### Industry YoY Growth from 2022 to 2024 (Slope Chart)
+- This chart gives explanation for whhy the total portfolio valuation dropped in 2023. Nearly every single key industry in the portfolio (Fintech, Internet Software, E-commerce, Supply Chain) experienced a sharp decline in value from 2022 to 2023.
+- These 4 industry's trends also seem to move in tandem and it reflects the interconnectivity and interdependency among these industries.
 
-Based on the insights, here are the proposed strategic actions:
+##### Funding Allocations to different Continents (Bubble Chart and Map)
+- There is a strong geographic concentration in North America (59.55%), with a significant secondary allocation to Europe (23.03%).
+- This exposes the portfolio primarily to North American and European economic conditions and political situations. Asia, South America, and Africa are significantly under-allocated.
 
-### Sales
-- Implement strategies to stabilize sales across low-performing months.
-- Focus on campaigns that leverage historical high-growth periods.
+##### Continent YoY Growth from 2022 to 2024 (Slope Chart)
+- The 2023 downturn was global, as valuations in North America, Asia, and Europe all declined. However, North America shows the strongest rebound in 2024, recovering more steeply than Asia or Europe.
+- This chart suggests the heavy allocation to North America (from the previous chart) is currently driving the portfolio's recovery from the downturn in 2023 to 2024.
 
-### Products
-- Increase inventory or marketing focus on high-performing product categories.
-- Reassess low-performing SKUs for discontinuation or repositioning.
+#### *VIEW 2* - Portfolio Management: Industry Snapshot
+| ![image alt](https://github.com/aliciango/data-analyst-portfolio-projects/blob/18a0f918f9d4dbbed7a932b820d52477a9639745/assets/sequoia%20industry.png) |
+|------------------------|
+##### Chart Industry's Years to Unicorn
+This allows investors with different investment taste to understand which industries suit their taste.
+- High risk, high return, short holding: An investor seeking a faster potential return (acknowledging higher risk) should look at sectors at the top of the list, like Hardware (4.9 years) or Consumer & Retail (5.4 years).
+- Low risk, low return, long-term holding: An investor with a more patient, long-term thesis might be comfortable with sectors like Travel (8.2 years) or Internet Software (8.0 years).
 
-### Loyalty Program
-- Encourage membership through targeted incentives and personalized offers.
-- Use loyalty data to segment and retain high-value customers.
+##### Chart Company Valuation versus Industry Average Valuation
+This chart shows the breakdown of the portfolio. The portfolio's health is driven by massive outliers at both ends.
+- Hyper-Winners: The portfolio contains enormous winners that significantly skew its value. The prime example is Klarna (Fintech), valued at $46B in 2022 compared to its industry average of $4.7B. Similarly, Wiz (Cybersecurity) and Attentive (Mobile & Tele...) are valued at 2x their respective industry averages.
+- Underperformers: The portfolio also holds companies valued below their peers, such as Snapdocs and Remote (both in Fintech), which are underperforming the average.
 
-### Refunds & Quality
-- Address quality issues in products with high return rates.
-- Improve post-purchase support to reduce unnecessary returns.
+##### Chart Funding Allocations to different Industries (% Change Waterfall)
+- The portfolio's -26% drop from 2023 to 2024 was driven almost entirely by the -22.5% collapse in Fintech and the -14.3% drop in Supply Chain. Given that Fintech is a massive holding (as seen in the first dashboard and confirmed by Klarna's size), this downturn was the primary cause of the portfolio's 2023 losses.
+- The 2023 Savior: The portfolio was prevented from an even worse fate by the explosive +66.7% growth in Cybersecurity (likely driven by the holding in Wiz). This sector's stellar performance acted as a partial hedge.
+- The 2024 Recovery: The recovery is broad-based. Fintech, Supply Chain, and Hardware are all rebounding sharply (+16.7%), signaling a "risk-on" sentiment returning to these sectors.
+- Other than that, some industries can be potential candidates because they show significant growth over the last two years, such as Cybersecurity growing +66.7% and then another +4.5%.
 
-### Region
-- Address quality issues in products with high return rates.
-- Improve post-purchase support to reduce unnecessary returns.
+#### *VIEW 3* - Portfolio Management: Continent Snapshot
+| ![image alt](https://github.com/aliciango/data-analyst-portfolio-projects/blob/18a0f918f9d4dbbed7a932b820d52477a9639745/assets/sequoia%20continent.png) |
+|------------------------|
+##### Chart Years to Unicorn
+- This benchmark chart shows the average time it takes for a startup to reach a $1B valuation in various countries.
+- High-velocity opportunities exist in both established markets (Philippines at 2.0 years) and emerging markets (UAE and Nigeria at 3.0 years).
 
+##### Chart Company Valuation versus Continent Average Valuation
+- Bytedance ($180B) and Shein ($100B) are valued at multiples (24x and 20x, respectively) of their peer averages.
+- This means the portfolio's entire "Asia" valuation is almost completely dependent on the private valuations of just two companies. This is a significant concentration risk.
+- In contrast, the Africa holding (Opay at $2B) is valued at less than half its industry average ($4.7B), indicating a severe underperformer.
+
+##### Chart Funding Allocations to Different Industries
+- The portfolio's 2024 value was driven by Asia, which grew an explosive +35.6%. This is likely due to valuation mark-ups in Bytedance and Shein.
+- Other regions like North America (+13.7%) and Europe (+12.7%) are also posting solid, healthy recoveries.
+- Africa is the only region that is still declining, posting a -21.4% loss in 2024. This confirms that the weakness seen in Opay is dragging down the entire continent's allocation.
+
+#### *VIEW 4* - Portfolio Management: Deal Sourcing
+| ![image alt](https://github.com/aliciango/data-analyst-portfolio-projects/blob/18a0f918f9d4dbbed7a932b820d52477a9639745/assets/sequoia%20deal%20sourcing.png)|
+|------------------------|
+Investors can view the in-portfolio companies and out-portfolio companies. They can also inspect each company by seeing the details in the bottom lookup table.
+
+
+
+## :bulb: Recommendations
+
+Based on the insights, here are the proposed strategic investment opportunities:
+
+- As the portfolio is highly allocated to the tech industry, investors can consider diversification as a strategy to improve their portfolio health by adding a company in an under-allocated sector. Opportunities for diversification exist in Artificial Intelligence (only 5.76%) or other unlisted, non-correlated industries (represented by "other" at 0.81%)
+- Find the next Wiz or Klarna to pick as a portfolio company. In the meantime, investors should also re-evaluate underperformers like Snapdocs.
+- Using industry as a factor to consider when conducting deal sourcing:
+- Use continent as a factor to consider when conducting deal sourcing: If the investors prefer fast return, consider adding to their portfolios companies located in the Philippines, UAE, or Nigeria. On the other hand, Korean and Brazilian companies can be good options if investors are seeking for low but sustainable returns.
+- The Africa allocation is failing. An investor could make a contrarian bet by finding a high-potential African startup (perhaps in Nigeria, from Chart 1) to turn this performance around. Alternatively, the portfolio has very little exposure to South America (+8.6%), which could be a valuable, long-term diversification play.
 
 
 # :toolbox: DATA PROCESSING
