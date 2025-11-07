@@ -1,8 +1,8 @@
 # Data Analyst Portfolio
 
 Tech stack: Python, SQL, Tableau
-[about me](#about-me)
-[projects](#projects)
+- ##### [About Me](#about-me)
+- ##### [Projects](#projects)
 ## About Me
 Xin Chào! 안녕하세요! My name is Truc (Rachel), a graduating senior with a major in Business and a minor in Artificial Intelligence. As a first-generation student, I cultivated a proactive and results-driven mindset, which I've applied to my passion for building data-informed products and communities.
 
