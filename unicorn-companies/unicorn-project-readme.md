@@ -1,20 +1,142 @@
-# Unicorn Companies Project Outcome
+# Unicorn Companies Project
+- Report to Business Stakeholders: [Go to Business Insights](#bulb-business-insights)
+- Report to Tech Stakeholders: [Go to Data Processing](#toolbox-data-processing)
+
+
+# :bulb: BUSINESS INSIGHTS
+## Dashboard Peek
+:link: [Go to Tableau Dashboard](https://public.tableau.com/views/FINISHEDDASHBOARD/DEALSOURCINGDB?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 ![image alt](https://github.com/aliciango/data-analyst-portfolio-projects/blob/d936e06e34322df8660598fec4c685f3698567cf/assets/unicorn_tableau.png)
-![image alt](https://github.com/aliciango/data-analyst-portfolio-projects/blob/d936e06e34322df8660598fec4c685f3698567cf/assets/unicorn_tableau2.png)
+@[image alt](https://github.com/aliciango/data-analyst-portfolio-projects/blob/d936e06e34322df8660598fec4c685f3698567cf/assets/unicorn_tableau2.png)
+
+
+
+![Logo](<!-- Add your logo image link here -->)
+
+## Client Background
+
+**[Client Name]** is a [describe the business or organization — e.g., "global retail company focused on digital commerce"].
+
+This report provides an analytical overview of [client's or project's] recent performance trends, challenges, and opportunities.
+
+The analysis focuses on key performance indicators, data insights, and strategic recommendations to support decision-making and operational improvements.
+
+## Northstar Metrics
+
+- [Metric 1] – e.g., Revenue growth trends and seasonal performance.
+- [Metric 2] – e.g., Product performance and category insights.
+- [Metric 3] – e.g., Customer engagement or loyalty program evaluation.
+- [Metric 4] – e.g., Regional sales comparison and market penetration.
+
+## Executive Summary
+
+1. **[Key Trend or Highlight 1]**
+   - Briefly summarize the most significant finding or event.
+   - Include the general outcome or trend (e.g., steady growth, seasonal dip).
+
+2. **[Key Trend or Highlight 2]**
+   - Describe the cause or possible contributing factors.
+   - Mention implications or impact areas (e.g., market shift, demand change).
+
+3. **[Additional Insight or Observation]**
+   - Highlight any repeating pattern or cyclical trend.
+   - Briefly touch on data anomalies or outliers worth further exploration.
+
+4. **[Key Takeaways & Recommendations]**
+   - List actionable recommendations based on the analysis.
+   - Summarize potential strategies or next steps.
+
+
+## Insights Deep-Dive
+
+### Sales Trend
+
+![Sales Trend](<!-- Add sales trend chart -->) ![AOV Chart](<!-- Add AOV chart -->) ![Order Count](<!-- Add order count chart -->)
+
+Briefly describe sales trends — e.g., periods of peak sales, downturns, or anomalies.
+
+---
+
+### Product Performance
+
+![Product Performance](<!-- Add product performance chart -->)
+
+Summarize product category performance and identify top or underperforming items.
+
+---
+
+### Loyalty Program Insights
+[Loyalty Metric 1](<!-- Add chart -->)
+
+[Loyalty Metric 2](<!-- Add chart -->)
+
+Explain loyalty member performance differences and customer engagement patterns.
+
+---
+
+### Refund Rates
+![Refund Analysis](<!-- Add refund chart -->)
+
+- Summarize key findings on refund frequency and product reliability.
+- Note which product types or categories have higher return rates.
+- Provide 1–2 possible improvement suggestions.
+
+---
+
+### Regional Analysis
+
+![Regional Analysis](<!-- Add regional chart -->)
+
+Describe key performance differences between regions and potential growth opportunities.
+
+---
+
+## Recommendations
+
+Based on the insights, here are the proposed strategic actions:
+
+### Sales
+- Implement strategies to stabilize sales across low-performing months.
+- Focus on campaigns that leverage historical high-growth periods.
+
+### Products
+- Increase inventory or marketing focus on high-performing product categories.
+- Reassess low-performing SKUs for discontinuation or repositioning.
+
+### Loyalty Program
+- Encourage membership through targeted incentives and personalized offers.
+- Use loyalty data to segment and retain high-value customers.
+
+### Refunds & Quality
+- Address quality issues in products with high return rates.
+- Improve post-purchase support to reduce unnecessary returns.
+
+### Region
+- Address quality issues in products with high return rates.
+- Improve post-purchase support to reduce unnecessary returns.
+
+
+
+# :toolbox: DATA PROCESSING
+
 ## Tech Stack
-- Python pandas and numpy (data cleaning)
+- Python (pandas and numpy for data cleaning)
 - [Go to Snowflake Section](#3-snowflake-sql-database-design-and-preparing-data-for-visualization)
-- [ Snowflake/SQL ](#snowflake) (database design, merge tables and quick data query)
-- [ Tableau (Visualization)](https://public.tableau.com/views/FINISHEDDASHBOARD/DEALSOURCINGDB?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+- [Snowflake/SQL](#snowflake) (database design, merge tables, quick querying)
+- [Tableau (Visualization)](https://public.tableau.com/views/FINISHEDDASHBOARD/DEALSOURCINGDB?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
 ## 1. Data Source Introduction
 
 ### 1a. Data Source Link
 - [2024 unicorn data](https://www.kaggle.com/datasets/sashakorovkina/2024-unicorn-and-emerging-unicorn-companies?resource=download&select=unicorn_companies.csv)
 - [2023 unicorn data](https://www.kaggle.com/datasets/ritwikb3/unicorn-companies)
 - [2022 unicorn data](https://www.kaggle.com/datasets/mysarahmadbhat/unicorn-companies)
- - 3 CSV files that collect information about private companies with a value of over $1 billion as of March 2022, 2023 and 2024.
+
+3 CSV files that collect information about private companies with a value of over $1 billion as of March 2022, 2023, and 2024.
+
 ### 1b. Variable Description
- - Dataset 1:
+- Dataset 1:
+
 
 | *unicorn_companies_2022.csv* | Description | Data Type |
 |-------------|-------------|-----------|
@@ -162,6 +284,6 @@ However, designing the project this way cannot allow fast querying, joining for 
 
 
 ## 4. Tableau - Dashboard: Portfolio Management and Deal Sourcing
-Using the one big table, I could gain a lot of insights about this dataset. I have included my insights and recommendations in [this link](https://github.com/aliciango/data-analyst-portfolio-projects/blob/d936e06e34322df8660598fec4c685f3698567cf/README.md) for your reference: [Tableau Dashboard](https://public.tableau.com/views/FINISHEDDASHBOARD/DEALSOURCINGDB?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+Using the one big table, I was able to create this visualization: [Tableau Dashboard](https://public.tableau.com/views/FINISHEDDASHBOARD/DEALSOURCINGDB?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 
