@@ -121,7 +121,6 @@ Based on the insights, here are the proposed strategic actions:
 
 ## Tech Stack
 - Python (pandas and numpy for data cleaning)
-- [Go to Snowflake Section](#3-snowflake-sql-database-design-and-preparing-data-for-visualization)
 - [Snowflake/SQL](#snowflake) (database design, merge tables, quick querying)
 - [Tableau (Visualization)](https://public.tableau.com/views/FINISHEDDASHBOARD/DEALSOURCINGDB?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
