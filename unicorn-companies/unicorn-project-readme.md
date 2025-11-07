@@ -10,14 +10,6 @@
 | ![image alt](https://github.com/aliciango/data-analyst-portfolio-projects/blob/d936e06e34322df8660598fec4c685f3698567cf/assets/unicorn_tableau.png) |
 |------------------------|
 
-## Client Background
-
-**[Client Name]** is a [describe the business or organization — e.g., "global retail company focused on digital commerce"].
-
-This report provides an analytical overview of [client's or project's] recent performance trends, challenges, and opportunities.
-
-The analysis focuses on key performance indicators, data insights, and strategic recommendations to support decision-making and operational improvements.
-
 ## Northstar Metrics: Company's Valuation in 2022, 2023 and 2024
 
 - Dimension 1: Slice by Industries
