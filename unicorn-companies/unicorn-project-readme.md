@@ -4,7 +4,7 @@
 ## Tech Stack
 - Python pandas and numpy (data cleaning)
 - [Go to Snowflake Section](#3-snowflake-sql-database-design-and-preparing-data-for-visualization)
-- [ Snowflake/SQL ](#3-snowflake-sql-database-design-and-preparing-data-for-visualization) (database design, merge tables and quick data query)
+- [ Snowflake/SQL ](#snowflake) (database design, merge tables and quick data query)
 - [ Tableau (Visualization)](https://public.tableau.com/views/FINISHEDDASHBOARD/DEALSOURCINGDB?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 ## 1. Data Source Introduction
 
@@ -68,7 +68,7 @@
 ## 3. Snowflake (SQL) - Database Design and Preparing Data for Visualization
 [Snowflake Star & Query Testing](https://app.snowflake.com/axnfple/uhb18311/w31UKE6fN8gN#query)
 [Snowflake One Big Table](https://app.snowflake.com/axnfple/uhb18311/w413ag1rvuKi#query)
-
+## SNOWFLAKE
 Now that we already have three cleaned datasets, it is time to combine them. Actually cleaning is an iterative process, so I discovered a few more data quality-related issues while executing queries in snowflake. Therefore, I created the file 
 joining_prep.py to do any additional cleaning task. I also used excel to record the current columns that I have in each csv file and document how I am going to use the columns for joining these separate tables from 2022, 2023 and 2024.
 
