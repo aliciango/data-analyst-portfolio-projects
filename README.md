@@ -14,8 +14,6 @@ My core belief is that the best solutions are built on a deep understanding of d
 
 - Cultivated an online group from scratch to over 10,000 engaged members.
 
-- Successfully raising funds of 5M KRW.
-
 - Took classes in two non-native languages, took on extra elective courses with Korean students, and got a cumulative GPA of 4.0.
 
 - The first Vietnamese students in Yonsei Business Department to get nominated for a Business Competition in the US.
