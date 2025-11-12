@@ -1,9 +1,17 @@
 # Data Analyst Portfolio
+# Truc Ngo
+##### Based in HCMC / Seoul
+##### BBA at Yonsei, Minor in Artificial Intelligence
 
 Tech stack: Python, SQL, Tableau
 - ##### [About Me](#about-me)
 - ##### [Projects](#projects)
+
 ## About Me
+Certifications and Courses
+- Datacamp Associate Data Engineer
+- Google Business Intelligence Specialization
+- Hackerrank SQL Intermediate
 
 ## Projects
 ### Project Deal Sourcing and Portfolio Management: [Github Repository](https://github.com/aliciango/data-analyst-portfolio-projects/blob/0d20d941ab6df0a1aaff7d4993310b47174e8d5f/unicorn-companies/unicorn-project-readme.md)
