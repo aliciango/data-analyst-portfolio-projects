@@ -41,7 +41,7 @@ Finally, I came up with the hypotheses that can explain the discrepancy in page 
 1. Hypothesis 1: The converters generated a higher page value because they browsed more pages. 
 2. Hypothesis 2: The converters generated a higher page value because they spent more time browsing.
 
-While the charts shown that the number of pages browsed and time spent browsing could likely influence the page value, we should confirm this by conducting hypothesis testing
+While the charts shown that the number of pages browsed and time spent browsing could likely be the factors that influence the page value, we should confirm this by conducting hypothesis testing.
 - Further statistical testing could be conducted to test whether there is a statistical significant difference between converters and non-converters' page value.
 - Logistic regression model that predicts whether a user is a converter or not given the number of pages they browsed, time spent browsing.
 - Chi-square test of independence between visitor segment (levels: converters and non-converters) and page types (levels: info, admin, product)
