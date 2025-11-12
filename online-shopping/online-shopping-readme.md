@@ -70,8 +70,10 @@ Recommendations:
 - Improper format to work with Tableau: the page count and page duration for each page type is measured and recorded in columns. In order to make dashboard in Tableau, the columns must be combined to form one categorical variable and two contious variables.
 - Lack of time to conduct further statistical testing.
 - Log transformationg for time spent browsing and page value. The distribution for these two variables are right-skewed, with most of the data equals 0. I used boxplot to visualize the distribution and handling them before putting everything together in the final dashboard.
-| ![image alt](https://github.com/aliciango/data-analyst-portfolio-projects/blob/main/assets/onl_shopper_rootcause.png](https://github.com/trucngo100/data-analyst-portfolio-projects/blob/main/online-shopping/visualization/log%20transform.png) |
+
+| ![image alt](https://github.com/trucngo100/data-analyst-portfolio-projects/blob/main/online-shopping/visualization/log%20transform.png) |
 |------------------------|
+
 | ![image alt](https://github.com/trucngo100/data-analyst-portfolio-projects/blob/main/online-shopping/visualization/distribution1.png) |
 |------------------------|
 
