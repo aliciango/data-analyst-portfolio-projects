@@ -4,6 +4,8 @@
 ##### BBA at Yonsei, Minor in Artificial Intelligence
 
 Tech stack: Python, SQL, Tableau
+Languages: Vietnamese (Native); English (Fluent, IELTS 8.0, SAT 1450); Korean (Passive Fluent, TOPIK 5).
+
 - ##### [About Me](#about-me)
 - ##### [Projects](#projects)
 1. [Deal Sourcing and Portfolio Management](#deal-sourcing-and-portfolio-management)
