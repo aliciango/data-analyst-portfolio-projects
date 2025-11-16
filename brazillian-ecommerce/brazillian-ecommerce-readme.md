@@ -1,4 +1,4 @@
-# Brazillian Ecommerce Project
+# (wip) Brazillian Ecommerce Project
 - Report to Business Stakeholders: [Go to Business Insights](#bulb-business-insights)
 - Report to Tech Stakeholders: [Go to Data Processing](#toolbox-data-processing)
 
@@ -59,7 +59,7 @@ At the end of the day, the goal of this dashboard is finding ways to increase th
 
 # :toolbox: DATA PROCESSING
 ## Tech Stack
-- [SQL](#2-snowflake-data-cleaning)
+- SQL (Snowflake)
 - [Tableau (Visualization)](https://public.tableau.com/app/profile/alicia.ngo.viz/viz/viz_brazillian_ecommerce/CUSTOMERRETENTION)
 
 ## 1. Data Source Introduction
