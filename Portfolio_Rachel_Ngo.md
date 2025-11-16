@@ -66,7 +66,7 @@
 
 
 ### (B). Project Using Online Behavior Data for Targetted Marketing and Website Development
-#### [Github Repository](https://github.com/aliciango/data-analyst-portfolio-projects/tree/main/online-shopping)
+#### [Github Repository](https://github.com/trucngo100/data-analyst-portfolio-projects/blob/main/online-shopping/online-shopping-readme.md)
 <img src="https://github.com/aliciango/data-analyst-portfolio-projects/blob/main/assets/onl_shopper_rootcause.png" alt="img alt" width="600" height="400">
 
 ### (C). Project Using Ecommerce Data Collected from 5 Business Source Systems
