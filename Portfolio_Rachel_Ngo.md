@@ -5,7 +5,7 @@
 - ##### [Go to Linkedin Profile](https://www.linkedin.com/in/trucngo147/)
 - ##### [Go to About Me](#about-me)
 - ##### [Go to Projects](#projects)
-#### *1. [Deal Sourcing and Portfolio Management](#project-deal-sourcing-and-portfolio-management)*
+#### *1. [Deal Sourcing and Portfolio Management](#a-project-deal-sourcing-and-portfolio-management)*
 
 | Group of Metrics | Metrics Calculated |
 |------------------|-------------------|
@@ -15,7 +15,7 @@
 | Trend Analysis | % Change from 2022 to 2023, % Change from 2023 to 2024 |
 | Historical & Allocation Data | Year of Founded, Funding Allocations to Different Continents, Funding Allocations to Different Industries, Allocation Change (Emerging/Established Markets) |
 
-#### *2. [Using Online Behavior Data for Targetted Marketing and Website Development](#project-using-online-behavior-data-for-targetted-marketing-and-website-development)*
+#### *2. [Using Online Behavior Data for Targetted Marketing and Website Development](#b-project-using-online-behavior-data-for-targetted-marketing-and-website-development)*
 
 | Group of Metrics | Metrics Calculated |
 |------------------|-------------------|
@@ -25,7 +25,7 @@
 | Behavioral & Temporal Patterns | Time Browsing (Duration), Seasonality Trend (Payment/Value), Weekends and Weekdays Behavior Difference (Payment/Value), Proximity to Special Days (Payment/Value) |
 | Conversion & Performance Analysis | Count per Page Type, Payment Difference by Browser Type, Payment Difference by Traffic Type |
 
-#### *3. [Marketplace Ecommerce Analysis: Finding Answers for Low Customer Retention and Suggestions for CRM Activities with Sellers](#project-using-ecommerce-data-collected-from-5-business-source-systems)*
+#### *3. [Marketplace Ecommerce Analysis: Finding Answers for Low Customer Retention and Suggestions for CRM Activities with Sellers](#c-project-using-ecommerce-data-collected-from-5-business-source-systems)*
 
 | Group of Metrics | Metrics Calculated |
 |------------------|-------------------|
