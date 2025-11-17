@@ -1,9 +1,10 @@
 # Online Shopping Behavior Project
-- Report to Business Stakeholders: [Go to Business Insights](#bulb-business-insights)
+- Report to Business Stakeholders: [Go to Business Insights & Recommendations](#bulb-business-insights)
 - Report to Tech Stakeholders: [Go to Data Processing](#toolbox-data-processing)
 
 
 # :bulb: BUSINESS INSIGHTS
+[Scoll down for business recommendations](#bulb-recommendations)
 ## Dashboard Peek
 :link: [Go to Tableau Dashboard](https://public.tableau.com/app/profile/alicia.ngo.viz/viz/OnlineShoppingUserBehaviorAnalysis/DISCREPANCYDB)
 
@@ -46,8 +47,8 @@ While the charts shown that the number of pages browsed and time spent browsing 
 - Logistic regression model that predicts whether a user is a converter or not given the number of pages they browsed, time spent browsing.
 - Chi-square test of independence between visitor segment (levels: converters and non-converters) and page types (levels: info, admin, product)
 
-Recommendations:
-- If browsing more pages and spending more time on the website does directly influence the page value, we should invent activities (like daily checkin games) that keep users engaged and interact with our websites longer. On the contrary if browsing more pages and spending more time may somehow annoy the customers and decrease the page value, we should take a look at how information is presented on the product, information, and administrative page. Are they compact, easy to read and easy to navigate? 
+## :bulb: Recommendations
+- If browsing more pages and spending more time on the website does directly influence the page value, we should invent activities (like daily checkin games) that keep users engaged and interact with our websites longer. On the contrary if browsing more pages and spending more time may somehow annoy the customers and decrease the page value, we should take a look at how information is presented on the product, information, and administrative page. Are they compact, easy to read and easy to navigate? This dashboard is the primary starting point to improve the volume of visits to our website and provides motivation to improve the quality of our website.
 
 # :toolbox: DATA PROCESSING
 ## Tech Stack
