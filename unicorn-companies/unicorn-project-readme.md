@@ -4,6 +4,8 @@
 
 
 # :bulb: BUSINESS INSIGHTS
+[Scroll down for Business Recommendations](#bulb-recommendations)
+
 ## Dashboard Peek
 :link: [Go to Tableau Dashboard](https://public.tableau.com/views/FINISHEDDASHBOARD/DEALSOURCINGDB?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
