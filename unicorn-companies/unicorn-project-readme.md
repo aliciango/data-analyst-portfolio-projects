@@ -89,7 +89,6 @@ Based on the insights, here are the proposed strategic investment opportunities:
 
 - As the portfolio is highly allocated to the tech industry, investors can consider diversification as a strategy to improve their portfolio health by adding a company in an under-allocated sector. Opportunities for diversification exist in Artificial Intelligence (only 5.76%) or other unlisted, non-correlated industries (represented by "other" at 0.81%)
 - Find the next Wiz or Klarna to pick as a portfolio company. In the meantime, investors should also re-evaluate underperformers like Snapdocs.
-- Using industry as a factor to consider when conducting deal sourcing:
 - Use continent as a factor to consider when conducting deal sourcing: If the investors prefer fast return, consider adding to their portfolios companies located in the Philippines, UAE, or Nigeria. On the other hand, Korean and Brazilian companies can be good options if investors are seeking for low but sustainable returns.
 - The Africa allocation is failing. An investor could make a contrarian bet by finding a high-potential African startup (perhaps in Nigeria, from Chart 1) to turn this performance around. Alternatively, the portfolio has very little exposure to South America (+8.6%), which could be a valuable, long-term diversification play.
 
