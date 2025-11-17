@@ -57,7 +57,7 @@ To understand why buyers do not have interest to stay and make frequent purchase
 
 
 #### *VIEW 6* - Seller Acquisition and Conversion 
-| ![image alt](https://github.com/trucngo100/data-analyst-portfolio-projects/blob/main/assets/ecommerce_6_seller_hannel.png)  |
+| ![image alt](https://github.com/trucngo100/data-analyst-portfolio-projects/blob/main/assets/ecommerce_6_seller_channel.png)  |
 |------------------------|
 ##### VIEW 6 INSIGHTS
 - Assuming that seller retention also relies on how they were first contacted, I dived deeper into the CRM activities of the company.
