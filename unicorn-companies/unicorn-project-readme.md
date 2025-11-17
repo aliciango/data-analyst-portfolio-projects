@@ -1,5 +1,5 @@
 # Unicorn Companies Project
-##### Using Financial Data for Portfolio Management and Deal Sourcing
+### Using Financial Data for Portfolio Management and Deal Sourcing
 - Report to Business Stakeholders: [Go to Business Insights](#bulb-business-insights)
 - Report to Tech Stakeholders: [Go to Data Processing](#toolbox-data-processing)
 
