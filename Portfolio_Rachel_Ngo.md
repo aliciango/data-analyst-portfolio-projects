@@ -61,7 +61,7 @@
   
 ## Projects
 ### (A). Project Deal Sourcing and Portfolio Management
-#### [Github Repository](https://github.com/aliciango/data-analyst-portfolio-projects/blob/0d20d941ab6df0a1aaff7d4993310b47174e8d5f/unicorn-companies/unicorn-project-readme.md)
+#### [Github Repository](https://github.com/trucngo100/data-analyst-portfolio-projects/edit/main/unicorn-companies/unicorn-project-readme.md)
 <img src="https://github.com/aliciango/data-analyst-portfolio-projects/blob/5c2a0daef92e750d210dde296d8b998576d44484/assets/unicorn_tableau2.png" alt="img alt" width="600" height="400">
 
 
