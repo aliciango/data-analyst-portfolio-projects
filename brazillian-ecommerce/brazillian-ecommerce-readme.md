@@ -12,49 +12,64 @@
 At the end of the day, the goal of this dashboard is finding ways to increase the page value. Page value is calculated by dividing the dollar amount of customer purchases by the number of pages that they visit during a session. 
 
 ## Insights from Visualization
-#### *VIEW 1* - Overview of User Activities during the last 12 months
+#### *VIEW 1* - Overview of Olist
 | ![image alt](https://github.com/trucngo100/data-analyst-portfolio-projects/blob/main/assets/ecommerce_1_overview.png)  |
 |------------------------|
 ##### VIEW 1 INSIGHTS
+*Context*
+- As this is an ecommerce platform, their customers include two main buckets: one is the sellers and the other one is the buyers. From the main dashboard, there are two main trends. First is that the acquistion of customer grew strongly throughout the examined period. Sellers growth is comparatively slower and plateaud around 380 new sellers in the latter half.
+- The typical amount that customer pay is around R$158 and average listings of each seller on the platform is 38 items, which is quite a large product portfolio for small-and-medium sized businesses.
+- What is most noticeable is the extremely slow customer retention rate and seller retention rate. We will now move on exploring what could potentially cause the slow retention rate.
 
 
-#### *VIEW 2* - Inspecting how behavior of converters and non-converters are different
+#### *VIEW 2* - Low Customer Retention Inspection
 | ![image alt](https://github.com/trucngo100/data-analyst-portfolio-projects/blob/main/assets/ecommerce_2_cust_retention.png)  |
 |------------------------|
 ##### VIEW 2 INSIGHTS
+- Before going into the strategy to improve our customer retention, I first explored the motivations behind increasing the number of return and repeat customers. The reason is that repeat customers spend 35% higher and 10% higher than one-time buyers. 
+- The detailed cohort table shows monthly retention consistently in the 0.1% to 0.5% range. New customers in any given month almost never return in subsequent months.
 
 
-
-#### *VIEW 3* - Finding root causes for the behavior discrepancy between converters and non-converters
+#### *VIEW 3* - Finding Patterns in Items Bought and Payment Methods
 | ![image alt](https://github.com/trucngo100/data-analyst-portfolio-projects/blob/main/assets/ecommerce_3_cust_delivery_hyp.png)  |
 |------------------------|
 ##### VIEW 3 INSIGHTS
+To understand why buyers do not have interest to stay and make frequent purchases on our platform. I decided to take a look back at their customer journy, from their online purchase experience, to post-purchase experience like receiving products and writing reviews.
 
 
 
-#### *VIEW 4* - Finding root causes for the behavior discrepancy between converters and non-converters
+#### *VIEW 4* - Exploring Isssues Related to Delivery
 | ![image alt](https://github.com/trucngo100/data-analyst-portfolio-projects/blob/main/assets/ecommerce_4_cust_product_hyp.png)  |
 |------------------------|
 ##### VIEW 4 INSIGHTS
+- Our customers are not high-income customers but rather low-to-middle income customer who make lots of purchases for low-priced items and they only bought a small quantity of them. Most payments are via credit card. The largest consumed product categories include health and beauty, bed and bath, sports and leisure, watches, and gift.
+- My assumption is that a good customer experience, reflected through a good review score, would be the main motivation for customers to make subsequent purchases.
+- My hypothesis about the delivery and product review is true. Faster delivery leads to higher review scores, which could subsequently ends in a revisit.
+- My recommendations is that Olist should reduce the 9.2 days average shipping time and the 2.8 days average order preparation time to improve the customer review score. 
 
 
-#### *VIEW 5* - Finding root causes for the behavior discrepancy between converters and non-converters
+
+#### *VIEW 5* - Inspecting Seller Retention
 | ![image alt](https://github.com/trucngo100/data-analyst-portfolio-projects/blob/main/assets/ecommerce_5_seller_retention.png)  |
 |------------------------|
 ##### VIEW 5 INSIGHTS
+- Most new sellers are churning immediately, validating the overall 10.53% low seller retention rate. This indicates a severe problem with the seller onboarding experience, platform tools, or commission structure.
 
 
-#### *VIEW 6* - Finding root causes for the behavior discrepancy between converters and non-converters
+#### *VIEW 6* - Seller Acquisition and Conversion 
 | ![image alt](https://github.com/trucngo100/data-analyst-portfolio-projects/blob/main/assets/ecommerce_6_seller_hannel.png)  |
 |------------------------|
 ##### VIEW 6 INSIGHTS
+- Assuming that seller retention also relies on how they were first contacted, I dived deeper into the CRM activities of the company.
+- I built this dashboard specifically for sales manager to know who to engage with when dealing with different kinds of leads. Some SDRs and SRs have superior performance than the other members in their teams. The sales manager can also reward exmployees with high KPIs.
 
-
-#### *VIEW 7* - Finding root causes for the behavior discrepancy between converters and non-converters
+#### *VIEW 7* - Big Picture of Olist Seller and Buyer Network
 | ![image alt](https://github.com/trucngo100/data-analyst-portfolio-projects/blob/main/assets/ecommerce_7_seller_buyer_network.png)  |
 |------------------------|
 ##### VIEW 7 INSIGHTS
-
+- Geographic Distribution: Both customers and sellers are heavily concentrated in the Southeast region of Brazil, particularly the states of São Paulo (SP), Minas Gerais (MG), and Rio de Janeiro (RJ).
+- Warehouse Recommendation: The heatmap confirms this concentration, showing the highest order density (darker squares) in the SP, RJ, and MG regions.
+- Recommendation: To reduce the 9.2-day average shipping time, the next regional warehouse should be located in the Southeast Region (e.g., São Paulo or Rio de Janeiro) to serve the high demand of buyers and allow the sellers to load their products to our warehouses faster.
 
 
 # :toolbox: DATA PROCESSING
