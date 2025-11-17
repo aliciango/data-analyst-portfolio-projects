@@ -105,6 +105,7 @@ Based on the insights, here are the proposed strategic investment opportunities:
 ## 1. Data Source Introduction
 
 ### 1a. Data Source Link
+Each dataset contains over 1000+ unicorn companies with valuation over $1 and I have merged three different datasets that were crawled in 2022, 2023 and 2024.
 - [2024 unicorn data](https://www.kaggle.com/datasets/sashakorovkina/2024-unicorn-and-emerging-unicorn-companies?resource=download&select=unicorn_companies.csv)
 - [2023 unicorn data](https://www.kaggle.com/datasets/ritwikb3/unicorn-companies)
 - [2022 unicorn data](https://www.kaggle.com/datasets/mysarahmadbhat/unicorn-companies)
