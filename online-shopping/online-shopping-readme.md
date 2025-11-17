@@ -58,6 +58,7 @@ While the charts shown that the number of pages browsed and time spent browsing 
 ## 1. Data Source Introduction
 
 ### 1a. Data Source Link
+The dataset contains information about 12,330 sessions with 17 features. 84.5% (10,422) were negative class samples that did not end with shopping, and the rest (1908) were positive class samples ending with shopping.
 - [UCI Machine Learning - Online Shopper Purchasing Intention Dataset](https://archive.ics.uci.edu/dataset/468/online+shoppers+purchasing+intention+dataset)
 
 - Brainstorming on how to extract insights from those columns using [Go to Excel](https://docs.google.com/spreadsheets/d/16zpjNvjTLtcC3emXAEUWOm4ZR4A6j3ZK-JcDXgftGgQ/edit?gid=2130198374#gid=2130198374)
