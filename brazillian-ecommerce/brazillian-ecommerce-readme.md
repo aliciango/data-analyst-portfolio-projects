@@ -1,4 +1,4 @@
-# (wip) Brazillian Ecommerce Project
+# Brazillian Ecommerce Project
 - Report to Business Stakeholders: [Go to Business Insights](#bulb-business-insights)
 - Report to Tech Stakeholders: [Go to Data Processing](#toolbox-data-processing)
 
@@ -8,8 +8,8 @@
 :link: [Go to Tableau Dashboard](https://public.tableau.com/app/profile/alicia.ngo.viz/viz/viz_brazillian_ecommerce/CUSTOMERRETENTION)
 
 
-## Northstar Metrics: Page Value
-At the end of the day, the goal of this dashboard is finding ways to increase the page value. Page value is calculated by dividing the dollar amount of customer purchases by the number of pages that they visit during a session. 
+## Northstar Metrics: Average Order Value
+- AVO is a metrics used to measure how much a customer spent on an ecommerce platform.
 
 ## Insights from Visualization
 #### *VIEW 1* - Overview of Olist
