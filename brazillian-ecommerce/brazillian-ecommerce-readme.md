@@ -1,4 +1,5 @@
-# Brazillian Ecommerce Project
+# Brazillian Olist Ecommerce Project
+### Using Ecommerce Data for Analyzing Buyer Retention and Seller Acquisition
 - Report to Business Stakeholders: [Go to Business Insights](#bulb-business-insights)
 - Report to Tech Stakeholders: [Go to Data Processing](#toolbox-data-processing)
 
