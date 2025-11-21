@@ -6,7 +6,7 @@
 - ##### [Go to About Me](#about-me)
 - ##### [Go to Projects](#projects)
 - ##### [Go to Personal Learning Notes](#personal-learning-notes)
-#### *0. [(P&G HR Self-taught Case Study) Using IBM HR Data to Analyze Attrition)(#d-hr-project)*
+#### *0. [P&G HR Analytics Internship - Using IBM HR Data to Analyze Attrition](#d-hr-project)*
 
 #### *1. [Using Financial Data for Portfolio Management and Deal Sourcing](#a-project-using-financial-data-for-portfolio-management-and-deal-sourcing)*
 | Group of Metrics | Metrics Calculated |
