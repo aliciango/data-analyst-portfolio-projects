@@ -76,8 +76,7 @@ The dataset has information of 100k orders from 2016 to 2018 made at multiple ma
 - First, I used random forest to identify the most significant predictor of attrition, which is 'Monthly Income'. This means that the higher the income, the more motivated an employee is to stay with IBM.
 - Next, I dived deeper into understanding drivers behind high income. A high income is determined by the job level and surprisingly the total working years and salary does not have perfectly linear relationship. This means that regardless of the years that employee contributes to IBM, it is not guaranteed that they will get the pay raise. This suggests for a better policy to retain and reward employees who have stayed with IBM for a long time.
 
-<img src="https://github.com/trucngo100/data-analyst-portfolio-projects/blob/main/assets/hr-income_regardless.png" alt="img alt" width="600" height="500">
-
+![img alt](https://github.com/trucngo100/data-analyst-portfolio-projects/blob/main/assets/hr-income_regardless.png)
 ## Technical Challenges
 - There are more than 20 categorical variables in this dataset and to pin down the variables that are highly correlated with the attrition was the main challenge.
 - First, I conducted dimension reduction by applying random forest. From there
