@@ -15,7 +15,7 @@
 
 ## Insights from Visualization
 #### *VIEW 1* - Overview of Olist
-| ![image alt](https://github.com/trucngo100/data-analyst-portfolio-projects/blob/main/assets/ecommerce_1_overview.png)  |
+| ![image alt](https://github.com/trucngo100/data-analyst-portfolio-projects/blob/main/assets/ecommerce_1.png)  |
 |------------------------|
 ##### VIEW 1 INSIGHTS
 *Context*
@@ -25,7 +25,7 @@
 
 
 #### *VIEW 2* - Low Customer Retention Inspection
-| ![image alt](https://github.com/trucngo100/data-analyst-portfolio-projects/blob/main/assets/ecommerce_2_cust_retention.png)  |
+| ![image alt](https://github.com/trucngo100/data-analyst-portfolio-projects/blob/main/assets/ecommerce_2.png)  |
 |------------------------|
 ##### VIEW 2 INSIGHTS
 - Before going into the strategy to improve our customer retention, I first explored the motivations behind increasing the number of return and repeat customers. The reason is that repeat customers spend 35% higher and 10% higher than one-time buyers. 
@@ -33,7 +33,7 @@
 
 
 #### *VIEW 3* - Finding Patterns in Items Bought and Payment Methods
-| ![image alt](https://github.com/trucngo100/data-analyst-portfolio-projects/blob/main/assets/ecommerce_3_cust_delivery_hyp.png)  |
+| ![image alt](https://github.com/trucngo100/data-analyst-portfolio-projects/blob/main/assets/ecommerce_3.png)  |
 |------------------------|
 ##### VIEW 3 INSIGHTS
 To understand why buyers do not have interest to stay and make frequent purchases on our platform. I decided to take a look back at their customer journy, from their online purchase experience, to post-purchase experience like receiving products and writing reviews.
@@ -41,7 +41,7 @@ To understand why buyers do not have interest to stay and make frequent purchase
 
 
 #### *VIEW 4* - Exploring Isssues Related to Delivery
-| ![image alt](https://github.com/trucngo100/data-analyst-portfolio-projects/blob/main/assets/ecommerce_4_cust_product_hyp.png)  |
+| ![image alt](https://github.com/trucngo100/data-analyst-portfolio-projects/blob/main/assets/ecommerce_4.png)  |
 |------------------------|
 ##### VIEW 4 INSIGHTS
 - Our customers are not high-income customers but rather low-to-middle income customer who make lots of purchases for low-priced items and they only bought a small quantity of them. Most payments are via credit card. The largest consumed product categories include health and beauty, bed and bath, sports and leisure, watches, and gift.
@@ -51,21 +51,21 @@ To understand why buyers do not have interest to stay and make frequent purchase
 
 
 #### *VIEW 5* - Inspecting Seller Retention
-| ![image alt](https://github.com/trucngo100/data-analyst-portfolio-projects/blob/main/assets/ecommerce_5_seller_retention.png)  |
+| ![image alt](https://github.com/trucngo100/data-analyst-portfolio-projects/blob/main/assets/ecommerce_5.png)  |
 |------------------------|
 ##### VIEW 5 INSIGHTS
 - Most new sellers are churning immediately, validating the overall 10.53% low seller retention rate. This indicates a severe problem with the seller onboarding experience, platform tools, or commission structure.
 
 
 #### *VIEW 6* - Seller Acquisition and Conversion 
-| ![image alt](https://github.com/trucngo100/data-analyst-portfolio-projects/blob/main/assets/ecommerce_6_seller_channel.png)  |
+| ![image alt](https://github.com/trucngo100/data-analyst-portfolio-projects/blob/main/assets/ecommerce_6.png)  |
 |------------------------|
 ##### VIEW 6 INSIGHTS
 - Assuming that seller retention also relies on how they were first contacted, I dived deeper into the CRM activities of the company.
 - I built this dashboard specifically for sales manager to know who to engage with when dealing with different kinds of leads. Some SDRs and SRs have superior performance than the other members in their teams. The sales manager can also reward exmployees with high KPIs.
 
 #### *VIEW 7* - Big Picture of Olist Seller and Buyer Network
-| ![image alt](https://github.com/trucngo100/data-analyst-portfolio-projects/blob/main/assets/ecommerce_7_seller_buyer_network.png)  |
+| ![image alt](https://github.com/trucngo100/data-analyst-portfolio-projects/blob/main/assets/ecommerce_7.png)  |
 |------------------------|
 ##### VIEW 7 INSIGHTS
 - Geographic Distribution: Both customers and sellers are heavily concentrated in the Southeast region of Brazil, particularly the states of São Paulo (SP), Minas Gerais (MG), and Rio de Janeiro (RJ).
